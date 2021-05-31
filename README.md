@@ -9,4 +9,4 @@
 
 ``LAB 1 - 6 (BOOTSTRAP)``
 
-``Author``: **Leskiv Vladyslav**
+``Author``: **Yahysh Maksym**
